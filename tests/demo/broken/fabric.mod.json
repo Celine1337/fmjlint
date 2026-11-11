@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "id": "Bad_ID",
+  "version": "1.0.0",
+  "environment": "both",
+  "entrypoints": {
+    "main": "not-a-list"
+  },
+  "depends": {
+    "minecraft": "abc"
+  }
+}
